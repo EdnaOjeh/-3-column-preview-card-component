@@ -16,13 +16,11 @@ button{
 img{
     margin: 20px 0 0 10px;
 }
-@font-face {
-    font-family: 'Big Shoulders Display';
-    src: url(https://fonts.googleapis.com/css2?family=Big+Shoulders+Display);
-    font-weight: 700;
-}
+@import url(//fonts.googleapis.com/css2?family=Big+Shoulders+Display) 
+
 h1{
     font-family: 'Big Shoulders Display' sans-serif;
+    font-weight: 700;
     color: hsl(0, 0%, 95%);
     padding: 0 20px;
 }
