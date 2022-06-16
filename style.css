@@ -1,0 +1,86 @@
+.card{
+    background-color: hsl(0, 0%, 95%);
+    width: 850px;
+    margin: 100px 200px 50px 300px;
+    display: flex;
+    
+}
+button{
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 20px 20px ;
+    border-style: none;
+    width: 120px;
+    height: 40px;
+    margin: 20px;
+}
+img{
+    margin: 20px 0 0 10px;
+}
+@import url(https://fonts.google.com/specimen/Big+Shoulders+Display&https://fonts.google.com/specimen/Lexend+Deca);
+
+h1{
+    font-family: 'Big Shoulders Display';
+    color: hsl(0, 0%, 95%);
+    padding: 0 20px;
+}
+p{
+   color: hsla(0, 0%, 100%, 0.75);
+   line-height: 30px;
+   padding: 10px;
+   margin: 5px;
+   font-family: 'Lexend Deca';
+}
+.sedans{
+    background-color: hsl(31, 77%, 52%);
+    padding: 20px;
+    width: 50%;
+    height: 50%;
+}
+.sedansbutton{
+    color: hsl(31, 77%, 52%);
+}
+.sedansbutton:hover {
+    background-color: hsl(31, 77%, 52%);
+    color: hsla(0, 0%, 100%, 0.75);
+    border: 2px solid white;
+    cursor: pointer;
+}
+.suvs{
+    background-color: hsl(184, 100%, 22%);
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+}
+.suvsbutton{
+    color: hsl(184, 100%, 22%);
+}
+.suvsbutton:hover{
+    background-color:hsl(184, 100%, 22%) ;
+    color: hsla(0, 0%, 100%, 0.75);
+    border: 2px solid white;
+    cursor: pointer;
+}
+.luxury{
+    background-color:hsl(179, 100%, 13%);
+    width: 50%;
+    height: 50%;
+    padding: 20px;
+}
+.luxurybutton{
+    color:hsl(179, 100%, 13%);
+}
+.luxurybutton:hover{
+    background-color: hsl(179, 100%, 13%);
+    color: hsla(0, 0%, 100%, 0.75);
+    border: 2px solid white;
+    cursor: pointer;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+ }
+
+
