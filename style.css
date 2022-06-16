@@ -1,3 +1,4 @@
+@import url(https://fonts.google.com/specimen/Big+Shoulders+Display&https://fonts.google.com/specimen/Lexend+Deca);
 .card{
     background-color: hsl(0, 0%, 95%);
     width: 850px;
@@ -16,10 +17,8 @@ button{
 img{
     margin: 20px 0 0 10px;
 }
-@import url(https://fonts.google.com/specimen/Big+Shoulders+Display&https://fonts.google.com/specimen/Lexend+Deca);
-
 h1{
-    font-family: 'Big Shoulders Display';
+    font-family: 'Big Shoulders Display', sans-serif;
     color: hsl(0, 0%, 95%);
     padding: 0 20px;
 }
@@ -28,7 +27,7 @@ p{
    line-height: 30px;
    padding: 10px;
    margin: 5px;
-   font-family: 'Lexend Deca';
+   font-family: 'Lexend Deca', sans-serif;
 }
 .sedans{
     background-color: hsl(31, 77%, 52%);
