@@ -1,6 +1,6 @@
 .card{
     background-color: hsl(0, 0%, 95%);
-    width: 800px;
+    width: 850px;
     margin: 100px 200px 50px 300px;
     display: flex;
     
@@ -16,11 +16,9 @@ button{
 img{
     margin: 20px 0 0 10px;
 }
-@import url(https://fonts.google.com/specimen/Big+Shoulders+Display) 
-
+@import url(https://fonts.google.com/specimen/Big+Shoulders+Display&https://fonts.google.com/specimen/Lexend+Deca);
 h1{
-    font-family: 'Big Shoulders Display' sans-serif;
-    font-weight: 700;
+    font-family: 'Big Shoulders Display';
     color: hsl(0, 0%, 95%);
     padding: 0 20px;
 }
@@ -29,7 +27,7 @@ p{
    line-height: 30px;
    padding: 10px;
    margin: 5px;
-   font-family: 'Lexend Deca' sans-serif;
+   font-family: 'Lexend Deca';
 }
 .sedans{
     background-color: hsl(31, 77%, 52%);
